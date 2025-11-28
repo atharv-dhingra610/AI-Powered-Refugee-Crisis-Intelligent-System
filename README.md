@@ -598,9 +598,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-**Project Maintainer**: Your Name
+**Project Maintainer**: Atharv Dhingra
 **Competition**: Google Kaggle "Agents for Good"
-**Year**: 2024
+**Year**: 2025
 
 ---
 
